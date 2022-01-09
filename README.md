@@ -1,2 +1,2 @@
 # java-odev
-Java ödevim. Çalışıyor fakat henüz bitmedi.
+Java dönem sonu ödevim
