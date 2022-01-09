@@ -1,2 +1,2 @@
 # java-odev
-Java dönem sonu ödevim
+Nesne Yönelimli Programlama dersi için üretmiş olduğum proje.
