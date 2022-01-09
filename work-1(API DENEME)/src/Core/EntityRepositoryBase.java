@@ -11,5 +11,7 @@ package Core;
 * Hangi Entity ile işlem yapacaksa o Entity için ekleme silme güncelleme listeleme
 *  işlemleri yapılır. Bizim senaryomuzda tek bir Entity var, o da HavaDurumu.
 * */
-public class EntityRepositoryBase<T> implements IEntityRepository<T> {
+public abstract class EntityRepositoryBase<T> implements IEntityRepository<T> {
+    @Override
+    public abstract void kimlikGoster(T nesne);
 }

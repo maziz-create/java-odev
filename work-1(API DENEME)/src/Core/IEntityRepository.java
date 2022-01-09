@@ -8,4 +8,5 @@ yazılır?
 */
 
 public interface IEntityRepository<T> {
+    void kimlikGoster(T nesne);
 }
